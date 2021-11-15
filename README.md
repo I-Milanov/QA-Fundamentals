@@ -20,7 +20,8 @@ Lecture | Content | Exercises
 7.Monitoring and Control|<ol><li>Test Progress Monitoring</li><li>Test Reporting</li><li>Test Control</li><li>Configuration Management</li><li>Risk and Testing</li><ol> | -
 8.Methods, Objects and Classes|<ol><li>Methods</li><ul><li>Declaring and Invoking Methods</li><li>Methods with Parameters</li></ul><li>Objects and Classes</li><li>Defining Simple Classes</li><ol> | <ol><li>Console Application "Hello SoftUni"</li><li>Numbers from 1 to 10</li><li>"PrintHelloWorld" Method</li><li>Invoke a Method from Other Method</li><li>Create an Object</li><li>Create a Class</li></ol>   
 9.NUnit-Essentials | <ol><li>Nunit Essentials</li><li>Test Automation</li><li>Test Framework</li><li>NUnit</li><li>Unit Testing Best Practices</li><ol> | <ol><li>Bank Account</li><li>Assert</li><ol>
-10.Selenium Introduction | <ol><li>Nunit Essentials</li><li>Test Automation</li><li>Test Framework</li><li>NUnit</li><li>Unit Testing Best Practices</li><ol> | Automation testing - https://www.animal.co.uk/
-11.Workshop selenium project testing |-| Selenium Testing
+10.Selenium Introduction | <ol><li>What is Selenium?</li><li>Selenium IDE</li><ul><li>Install</li><li>Features</li><li>Limitations</li></ul><li>Selenium WebDriver Introduction</li>
+<ol> | -
+11.Workshop selenium project testing |-| Automation testing - https://www.animal.co.uk/
 12.Exam preparation | -| -
 13.Tools and reporting| <ol><li>Purposes of Tool Support</li><li>Testing Tools</li><li>Benefits and Risks of Using Tools</li><li>Introducing a Tool into an Organization</li><ol> | -
